@@ -39,9 +39,13 @@ form {
 
 p {
     color: aliceblue;
-    font-size:medium;
+    font-size:small;
     padding-top: 2px;
     padding-bottom: 20px;
+}
+
+a {
+    position:center;
 }
 
 .post-button {

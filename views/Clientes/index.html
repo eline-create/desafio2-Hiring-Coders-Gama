@@ -13,7 +13,7 @@
     <section class="section-container">
         <div class="background-button" id="content">
             <p>Insira os dados a seguir, para efetuar o cadastro.</p> 
-            <form class='Client' onSubmit={this.handleSubmit}>
+            <form class='Client' id='dados' onSubmit={this.handleSubmit}>
                 <label class='form'>                                       
                 <input type='text' name='nome' id='nome' placeholder='nome'/>          
                 <input type='text' minlength="14" maxlength="14" class="form-control" onkeypress="$(this).mask('000.000.000-00')" name='cpf' id='cpf' placeholder='CPF'/>                   
@@ -21,13 +21,13 @@
                 <input type='text' name='telefone' id='telefone' placeholder='telefone'/>
                 <input type='email' name='email' id='email' placeholder='e-mail'/>
                 </label>               
-                <input type="submit" class='submitInput'value="Cadastrar"/>
-              </form>  
-        </div>           
+           <input type="submit" class='submitInput'value="Cadastrar"/>
+              </form>               
+         </div>           
     </section>     
     <footer>
         <p>Todos os direitos reservados ®.</p>
     </footer>
 </body>
-<script src="javascript/script.js"></script>
+<script src="../../javascript/scriptClientes.js"></script>
 </html>
