@@ -11,7 +11,7 @@
 =================
 <!--ts-->
    * [Projeto](#Projeto)
-    *[Objetivo e entregas](#Objetivo-e-Entregas)
+   * [Objetivo e entregas](#Objetivo-e-Entregas)
    * [Estrutura e etapas](#Estrutura-e-Etapas)
    * [Documentação](#Documentação)
    * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
@@ -23,17 +23,17 @@
 
 ### Projeto
 
-Projeto desenvolvido para cumprimento do 2º desafio do Hiringo Coders + Gama Academy.
+Projeto desenvolvido para cumprimento do 2º desafio do Hiring Coders + Gama Academy.
 
 ### Objetivo e Entregas
 
-Criação de um sistema e-commer para inventário de dados dos clientes e produtos.
+Criação de um sistema e-commerce para inventário de dados dos clientes e produtos.
 
 Para isso deve-se fazer as seguintes entregas:
 
-1. Os dados de clientes, endereços e produtos devem estar devidamente estruturados;
-2. Dados no localstorage;
-3. Código fonte no github com o arquivo README detalhando as funcionalidades da programação.
+1. Os dados de clientes e produtos devem estar devidamente estruturados;
+2. Dados armazenados no localstorage;
+3. Código-fonte no github com o arquivo README detalhando as funcionalidades da programação.
 
 ### Estrutura e Etapas
 
@@ -57,9 +57,9 @@ As etapas do desenvolvimento seguiram a seguinte ordem:
 1. Organização das pastas;
 2. Confeccção dos arquivos em HTML;
 3. Estilização através do arquivo CSS;
-4. Link de ligação entre as páginas
+4. Link de ligação entre as páginas;
 5. Configuração do local storage para armazenamento de dados;
-6. Deploy no Netlify
+6. Deploy no Netlify.
 
 Obs.: Readme e versionamento no GitHub foram feitos ao longo do desenvolvimento.
 
@@ -80,7 +80,7 @@ Para este projeto inicializar, você precisará ter instalado em sua máquina:
 
 ### Visualização
 
-Para acessar o resultado deste projeto click [aqui]().
+Para acessar o resultado deste projeto clique[aqui]().
 
 ### Contribuição
 
