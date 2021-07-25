@@ -20,7 +20,7 @@ produtos.addEventListener("submit", (e) => {
 
     let newProduct = JSON.stringify(product);
 
-    localStorage.setItem("lead", newProduct);
+    localStorage.setItem(titulo, newProduct);
     console.log(product)
 
     let content = document.getElementById("content");

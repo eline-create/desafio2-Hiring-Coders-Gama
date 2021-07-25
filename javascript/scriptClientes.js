@@ -18,7 +18,7 @@ cliente.addEventListener("submit", (e) => {
 
     let newClient = JSON.stringify(client);
 
-    localStorage.setItem("lead", newClient);
+    localStorage.setItem(cpf, newClient);
     console.log(client)
 
     let content = document.getElementById("content");
