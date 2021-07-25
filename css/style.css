@@ -24,6 +24,7 @@ html {
 
 .background-button {
     background: #000;
+    color: aliceblue;
     text-align: center;
     padding: 20px;
     max-width: 300;

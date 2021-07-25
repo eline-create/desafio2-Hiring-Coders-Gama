@@ -1,6 +1,6 @@
-const dados = document.getElementById("dados");
+const cliente = document.getElementById("clientes");
 
-dados.addEventListener("submit", (e) => {
+cliente.addEventListener("submit", (e) => {
     e.preventDefault();
     let nome = document.getElementById("nome").value;
     let cpf = document.getElementById("cpf").value;
@@ -8,7 +8,7 @@ dados.addEventListener("submit", (e) => {
     let telefone = document.getElementById("telefone").value;
     let email = document.getElementById("email").value;
 
-    let data = {
+    let client = {
         nome,
         cpf,
         endereco,
@@ -16,10 +16,10 @@ dados.addEventListener("submit", (e) => {
         email,
     };
 
-    let newData = JSON.stringify(data);
+    let newClient = JSON.stringify(client);
 
-    localStorage.setItem("lead", newData);
-    console.log(data)
+    localStorage.setItem("lead", newClient);
+    console.log(client)
 
     let content = document.getElementById("content");
     let carregando = `<h5> Carregando ... </h5>`;

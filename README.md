@@ -15,8 +15,10 @@
    * [Estrutura e etapas](#Estrutura-e-Etapas)
    * [Documentação](#Documentação)
    * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
-   * [Visualização](Visualização)
-   * [Coontribuição](#Contribuição) 
+   * [Visualização](#Visualização)
+   * [Implementações futuras](#Implementações-Futuras)
+   * [Contribuição](#Contribuição)
+   * [Agradecimentos](#Agradecimentos) 
    * [Autora](#Autora)
    * [Licença](#Licença)
  <!--te-->
@@ -78,15 +80,28 @@ Para este projeto inicializar, você precisará ter instalado em sua máquina:
 2. Controle de versionamento(Git);
 3. IDE-Ambiente de desenvolvimento integrado(Visual Studio Code).
 
+
+### Implementações Futuras
+
+Para melhorar este projeto, pretendo:
+
+- Desenvolver em ReactJs;
+- Usar outros estilos de CSS;
+- Acrescentar mais campos de informações aos forms.
+
 ### Visualização
 
-Para acessar o resultado deste projeto clique[aqui]().
+Para acessar o resultado deste projeto clique[aqui](https://bookstore-inventario.netlify.app/).
 
 ### Contribuição
 
 Faça o fork ou clone este [repositório](https://github.com/eline-create/desafio2-Hiring-Coders-Gama) em sua máquina para proceder com alteração. Caso queira que estas sejam incorporadas ao projeto original, crie uma branch </feature/seu-nome> e abra uma Pull Request(PR).
 
 Para visualizar as alteraçãoes feitas nos documentos HTML no browser, recomendo utilizar a extensão Live Server do Visual Studio Code.
+
+### Agradecimentos
+
+Estou feliz pelo resultado que alcancei e mesmo fazendo sem grandes frameworks desenvolvi o produto esperado. Agradeço a oportunidade de aprender a cada dia e o ambiente Hiring Coders proporcionou um aprendizado dinâmico, unindo prática e teoria. Sei que estes conhecimentos são apenas a ponta do iceberg para um grande universo de possibilidades, mas estou muito grata em ter tido oportunidade de descobrir e pode evoluir.
 
 ### Autora
 
