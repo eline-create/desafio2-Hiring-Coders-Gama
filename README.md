@@ -91,7 +91,7 @@ Para melhorar este projeto, pretendo:
 
 ### Visualização
 
-Para acessar o resultado deste projeto clique[aqui](https://bookstore-inventario.netlify.app/).
+Para acessar o resultado deste projeto clique [aqui](https://bookstore-inventario.netlify.app/).
 
 ### Contribuição
 
